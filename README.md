@@ -1,6 +1,6 @@
 I took this as an introduction to Next JS, learning it for a University Project.
 
-Lots of thanks to ['Brad Traversy'](https://www.traversymedia.com/)!
+Lots of thanks to [Brad Traversy](https://www.traversymedia.com/)!
 
 A [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
